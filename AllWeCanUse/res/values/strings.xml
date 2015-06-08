@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">All We Can Use</string>
+    <string name="metaioSDKSignature">dCQlrTZ3EjQVazsPAIlaeAUSpRytcWIgVdKDjvPSvaU=</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnClose">close</string>
+    <string name="qr_code_label">Last QR code read:</string>
+    
+    <string name="mMan">Man</string>
+    <string name="mTruck">Truck</string>
+    <string name="mBoat">Boat</string>
+    <string name="mMovie">Movie</string>
+    <string name="close">Close</string>
+    
+    <string name="id">ID Marker</string>
+    <string name="picture">Picture</string>
+    <string name="markless">Markless</string>
+    
+    <string name="cancel">Cancel</string>
+    
+    <string name="two_d">2D</string>
+    <string name="two_drectified">2D Rectified</string>
+    <string name="three_d">3D</string>
+    <string name="two_d_slam">2D SLAM</string>
+    <string name="two_d_slamsensor">2D SLAM + sensor extrapolation</string>
+    
+</resources>
